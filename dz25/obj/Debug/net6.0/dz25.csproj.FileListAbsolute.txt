@@ -1,0 +1,15 @@
+E:\Git-prodject\20221225\dz25\bin\Debug\net6.0\dz25.exe
+E:\Git-prodject\20221225\dz25\bin\Debug\net6.0\dz25.deps.json
+E:\Git-prodject\20221225\dz25\bin\Debug\net6.0\dz25.runtimeconfig.json
+E:\Git-prodject\20221225\dz25\bin\Debug\net6.0\dz25.dll
+E:\Git-prodject\20221225\dz25\bin\Debug\net6.0\dz25.pdb
+E:\Git-prodject\20221225\dz25\obj\Debug\net6.0\dz25.csproj.AssemblyReference.cache
+E:\Git-prodject\20221225\dz25\obj\Debug\net6.0\dz25.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git-prodject\20221225\dz25\obj\Debug\net6.0\dz25.AssemblyInfoInputs.cache
+E:\Git-prodject\20221225\dz25\obj\Debug\net6.0\dz25.AssemblyInfo.cs
+E:\Git-prodject\20221225\dz25\obj\Debug\net6.0\dz25.csproj.CoreCompileInputs.cache
+E:\Git-prodject\20221225\dz25\obj\Debug\net6.0\dz25.dll
+E:\Git-prodject\20221225\dz25\obj\Debug\net6.0\refint\dz25.dll
+E:\Git-prodject\20221225\dz25\obj\Debug\net6.0\dz25.pdb
+E:\Git-prodject\20221225\dz25\obj\Debug\net6.0\dz25.genruntimeconfig.cache
+E:\Git-prodject\20221225\dz25\obj\Debug\net6.0\ref\dz25.dll
